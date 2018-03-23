@@ -1,2 +1,24 @@
 # Article-to-Mockup
 Article to Mockup
+
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+### New knowledge
+``<sup>`` defined Superscript text. Such as Haotian1.
+And on the foot there is: 
+  [1]Haotian, 2018, xxxx.
+Text between ``<sup></sup>`` will display in half-height of origin while have the same font size and font type.
+
+The only one which is difficult is that superscript text.
+
+I also use the google to find the tag.
+
+Besides, I wonder know how to change the format in the front end and how to save the format of blog after editing? Except for using the markdown format.
